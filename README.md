@@ -1,2 +1,3 @@
-# stephan_anna
-steph_anna_project
+# Old_scripts
+
+Contains some old perl scripts from EMBL Desktop computer
