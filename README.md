@@ -1,3 +1,5 @@
-# Old_scripts
+# input data preparation scripts
 
-Contains some old perl scripts from EMBL Desktop computer
+1. split SDF files into individual entries
+2. create pairs of molecules (all against all), using Pubchem ID 
+3. Once created run the MCS.R (on HPC, multiple jobs)
